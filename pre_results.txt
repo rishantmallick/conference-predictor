@@ -1,0 +1,115 @@
+Mounted at /content/drive
+Requirement already satisfied: gdown in /usr/local/lib/python3.11/dist-packages (5.2.0)
+Requirement already satisfied: beautifulsoup4 in /usr/local/lib/python3.11/dist-packages (from gdown) (4.13.4)
+Requirement already satisfied: filelock in /usr/local/lib/python3.11/dist-packages (from gdown) (3.18.0)
+Requirement already satisfied: requests[socks] in /usr/local/lib/python3.11/dist-packages (from gdown) (2.32.3)
+Requirement already satisfied: tqdm in /usr/local/lib/python3.11/dist-packages (from gdown) (4.67.1)
+Requirement already satisfied: soupsieve>1.2 in /usr/local/lib/python3.11/dist-packages (from beautifulsoup4->gdown) (2.7)
+Requirement already satisfied: typing-extensions>=4.0.0 in /usr/local/lib/python3.11/dist-packages (from beautifulsoup4->gdown) (4.13.2)
+Requirement already satisfied: charset-normalizer<4,>=2 in /usr/local/lib/python3.11/dist-packages (from requests[socks]->gdown) (3.4.2)
+Requirement already satisfied: idna<4,>=2.5 in /usr/local/lib/python3.11/dist-packages (from requests[socks]->gdown) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /usr/local/lib/python3.11/dist-packages (from requests[socks]->gdown) (2.4.0)
+Requirement already satisfied: certifi>=2017.4.17 in /usr/local/lib/python3.11/dist-packages (from requests[socks]->gdown) (2025.4.26)
+Requirement already satisfied: PySocks!=1.5.7,>=1.5.6 in /usr/local/lib/python3.11/dist-packages (from requests[socks]->gdown) (1.7.1)
+Retrieving folder contents
+Retrieving folder 1_xFmMlrNDR0wzzPsv6wXXdGz0eX6vaYb Non-Publishable
+Processing file 1b3FQMAZ7tDCgIPUH8g6u2TaSH8JH_bO_ R001.pdf
+Processing file 1yt6A1YliBlTst7oYkRn6ZotDFWe0Rkpf R002.pdf
+Processing file 1KXgZegG-3rPCk37UalP0Ipju_yWvkgYU R003.pdf
+Processing file 1lZ-AN06L-D9cyZfNqOiH2PKH80hDLCkI R004.pdf
+Processing file 1H0HRA1VXVIJshvr64bXObuRitD2HpBsi R005.pdf
+Retrieving folder 1RKyDkAyW7cf09THED7Ms4LNBdeTDWnlK Publishable
+Retrieving folder 1RifJJBjm5tA8E20808RjvkIAiWnFbceb CVPR
+Processing file 1qpRfskGy-m2iq_WT71H9C6OgzwE30ESC R006.pdf
+Processing file 1iggcvhmWBvHDUhTH6LR3HnMcGsGGxBfY R007.pdf
+Retrieving folder 1JVzabziJf4d2drCTXFssFr_wZMnjr8oT EMNLP
+Processing file 1dlzAYEqKrlJqYkuVRkandoyYfPA7bE1V R008.pdf
+Processing file 1XGrMuvDuK3HHgamNF8kN3lSildl2j7aP R009.pdf
+Retrieving folder 1sJKv0o5ySrigZewU_wtTxysx9j0kO_nV KDD
+Processing file 1GxI_lyX0Fps3CGh6qvwBMowgqbzn5p2A R010.pdf
+Processing file 1AqXTZvXFcTWaOW_8iW3Jsgqyj3CoyJ5e R011.pdf
+Retrieving folder 1ZgkbpvhoNKUuH0b4uCv30lyWg3-5ijTC NeurIPS
+Processing file 1G-Te2p5gGJHxDSNfYAOXpr5H1hplqyx1 R012.pdf
+Processing file 1f7BCC4M8QQjhdabHCzel9EvSXqqY4Pvj R013.pdf
+Retrieving folder 13eDgt0YghQU2qlogGrTrXJzfD0h0F2Iw TMLR
+Processing file 1COphhBTWa5VJbw_uqWnv8CB2ubtjHGBl R014.pdf
+Processing file 1G7L_cjQO_alpQljsvXQ6H_BND9i_rRqP R015.pdf
+Retrieving folder contents completed
+Building directory structure
+Building directory structure completed
+Downloading...
+From: https://drive.google.com/uc?id=1b3FQMAZ7tDCgIPUH8g6u2TaSH8JH_bO_
+To: /content/Reference/Non-Publishable/R001.pdf
+100% 92.3k/92.3k [00:00<00:00, 50.9MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1yt6A1YliBlTst7oYkRn6ZotDFWe0Rkpf
+To: /content/Reference/Non-Publishable/R002.pdf
+100% 89.5k/89.5k [00:00<00:00, 79.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1KXgZegG-3rPCk37UalP0Ipju_yWvkgYU
+To: /content/Reference/Non-Publishable/R003.pdf
+100% 90.7k/90.7k [00:00<00:00, 72.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1lZ-AN06L-D9cyZfNqOiH2PKH80hDLCkI
+To: /content/Reference/Non-Publishable/R004.pdf
+100% 62.5k/62.5k [00:00<00:00, 19.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1H0HRA1VXVIJshvr64bXObuRitD2HpBsi
+To: /content/Reference/Non-Publishable/R005.pdf
+100% 77.8k/77.8k [00:00<00:00, 3.55MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1qpRfskGy-m2iq_WT71H9C6OgzwE30ESC
+To: /content/Reference/Publishable/CVPR/R006.pdf
+100% 134k/134k [00:00<00:00, 33.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1iggcvhmWBvHDUhTH6LR3HnMcGsGGxBfY
+To: /content/Reference/Publishable/CVPR/R007.pdf
+100% 154k/154k [00:00<00:00, 63.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1dlzAYEqKrlJqYkuVRkandoyYfPA7bE1V
+To: /content/Reference/Publishable/EMNLP/R008.pdf
+100% 70.9k/70.9k [00:00<00:00, 46.3MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1XGrMuvDuK3HHgamNF8kN3lSildl2j7aP
+To: /content/Reference/Publishable/EMNLP/R009.pdf
+100% 59.9k/59.9k [00:00<00:00, 88.2MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1GxI_lyX0Fps3CGh6qvwBMowgqbzn5p2A
+To: /content/Reference/Publishable/KDD/R010.pdf
+100% 184k/184k [00:00<00:00, 69.0MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1AqXTZvXFcTWaOW_8iW3Jsgqyj3CoyJ5e
+To: /content/Reference/Publishable/KDD/R011.pdf
+100% 161k/161k [00:00<00:00, 81.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1G-Te2p5gGJHxDSNfYAOXpr5H1hplqyx1
+To: /content/Reference/Publishable/NeurIPS/R012.pdf
+100% 177k/177k [00:00<00:00, 90.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1f7BCC4M8QQjhdabHCzel9EvSXqqY4Pvj
+To: /content/Reference/Publishable/NeurIPS/R013.pdf
+100% 197k/197k [00:00<00:00, 69.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1COphhBTWa5VJbw_uqWnv8CB2ubtjHGBl
+To: /content/Reference/Publishable/TMLR/R014.pdf
+100% 174k/174k [00:00<00:00, 75.0MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1G7L_cjQO_alpQljsvXQ6H_BND9i_rRqP
+To: /content/Reference/Publishable/TMLR/R015.pdf
+100% 174k/174k [00:00<00:00, 86.9MB/s]
+Download completed
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 1.0, 'results': 0.0, 'clarity': 1.0, 'ethics': 10.0, 'total': 12.0}}}
+{'finalscore': {'scores': {'methodology': 1.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 1.0, 'ethics': 10.0, 'total': 12.0}}}
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 0.0, 'ethics': 0.0, 'total': 0.0}}}
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 2.0, 'results': 1.0, 'clarity': 7.0, 'ethics': 5.0, 'total': 20.0}}}
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 4.0, 'factual_correctness': 3.0, 'rigorousity': 3.0, 'novelty': 5.0, 'results': 4.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 38.0}}}
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 58.0}}}
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 56.0}}}
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 52.0}}}
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 60.0}}}
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 8.0, 'total': 60.0}}}
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 6.0, 'total': 57.0}}}
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 57.0}}}
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 6.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 52.0}}}
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 6.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 8.0, 'total': 57.0}}}
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 55.0}}}
