@@ -1,0 +1,264 @@
+{'finalscore': {'scores': {'methodology': 4.0, 'technical_soundness': 3.0, 'factual_correctness': 6.0, 'rigorousity': 2.0, 'novelty': 2.0, 'results': 2.0, 'clarity': 6.0, 'ethics': 7.0, 'total': 32.0}}}
+P001.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 0.0, 'ethics': 0.0, 'total': 0.0}}}
+P002.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 1.0, 'results': 1.0, 'clarity': 6.0, 'ethics': 5.0, 'total': 18.0}}}
+P003.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 8.0, 'total': 60.0}}}
+P004.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 8.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 57.0}}}
+P005.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 1.0, 'results': 1.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 21.0}}}
+P006.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 6.0, 'rigorousity': 7.0, 'novelty': 8.0, 'results': 7.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 56.0}}}
+P007.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 48.0}}}
+P008.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 57.0}}}
+P009.pdf belongs to TMLR
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 57.0}}}
+P010.pdf belongs to KDD
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 6.0, 'total': 56.0}}}
+P012.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 8.0, 'rigorousity': 5.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 8.0, 'total': 52.0}}}
+P013.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 53.0}}}
+P014.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 5.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 56.0}}}
+P015.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 3.0, 'rigorousity': 1.0, 'novelty': 5.0, 'results': 1.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 27.0}}}
+P016.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 60.0}}}
+P017.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 9.0, 'ethics': 7.0, 'total': 60.0}}}
+P019.pdf belongs to KDD
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 1.0, 'results': 1.0, 'clarity': 7.0, 'ethics': 5.0, 'total': 19.0}}}
+P020.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 6.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 5.0, 'total': 46.0}}}
+P021.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 4.0, 'technical_soundness': 2.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 5.0, 'results': 2.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 28.0}}}
+P022.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 8.0, 'total': 60.0}}}
+P023.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 6.0, 'rigorousity': 7.0, 'novelty': 9.0, 'results': 7.0, 'clarity': 9.0, 'ethics': 7.0, 'total': 60.0}}}
+P024.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 6.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 54.0}}}
+P025.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 4.0, 'results': 1.0, 'clarity': 6.0, 'ethics': 3.0, 'total': 19.0}}}
+P026.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 9.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 8.0, 'total': 61.0}}}
+P027.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 60.0}}}
+P028.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 57.0}}}
+P030.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 6.0, 'rigorousity': 5.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 53.0}}}
+P031.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 1.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 1.0, 'results': 0.0, 'clarity': 2.0, 'ethics': 10.0, 'total': 14.0}}}
+P032.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 8.0, 'total': 55.0}}}
+P033.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 57.0}}}
+P034.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 2.0, 'results': 1.0, 'clarity': 6.0, 'ethics': 5.0, 'total': 19.0}}}
+P035.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 1.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 1.0, 'results': 0.0, 'clarity': 2.0, 'ethics': 10.0, 'total': 14.0}}}
+P036.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 60.0}}}
+P037.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 1.0, 'results': 1.0, 'clarity': 8.0, 'ethics': 10.0, 'total': 25.0}}}
+P038.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 0.0, 'ethics': 0.0, 'total': 0.0}}}
+P039.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 54.0}}}
+P040.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 4.0, 'results': 1.0, 'clarity': 7.0, 'ethics': 1.0, 'total': 18.0}}}
+P041.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 55.0}}}
+P042.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 1.0, 'results': 0.0, 'clarity': 0.0, 'ethics': 10.0, 'total': 11.0}}}
+P043.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 9.0, 'results': 8.0, 'clarity': 9.0, 'ethics': 7.0, 'total': 62.0}}}
+P044.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 8.0, 'clarity': 9.0, 'ethics': 6.0, 'total': 60.0}}}
+P045.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 50.0}}}
+P046.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 1.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 1.0, 'ethics': 10.0, 'total': 12.0}}}
+P047.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 1.0, 'ethics': 10.0, 'total': 11.0}}}
+P048.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 53.0}}}
+P049.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 10.0, 'total': 61.0}}}
+P050.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 9.0, 'results': 8.0, 'clarity': 9.0, 'ethics': 5.0, 'total': 60.0}}}
+P051.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 6.0, 'results': 6.0, 'clarity': 4.0, 'ethics': 7.0, 'total': 46.0}}}
+P052.pdf belongs to KDD
+{'finalscore': {'scores': {'methodology': 1.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 2.0, 'ethics': 10.0, 'total': 13.0}}}
+P053.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 9.0, 'ethics': 8.0, 'total': 60.0}}}
+P054.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 51.0}}}
+P055.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 0.0, 'ethics': 0.0, 'total': 0.0}}}
+P056.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 8.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 55.0}}}
+P057.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 6.0, 'total': 58.0}}}
+P058.pdf belongs to KDD
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 54.0}}}
+P059.pdf belongs to KDD
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 57.0}}}
+P061.pdf belongs to KDD
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 4.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 44.0}}}
+P062.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 7.0, 'rigorousity': 3.0, 'novelty': 2.0, 'results': 4.0, 'clarity': 6.0, 'ethics': 6.0, 'total': 31.0}}}
+P063.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 6.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 50.0}}}
+P064.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 8.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 55.0}}}
+P065.pdf belongs to TMLR
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 52.0}}}
+P066.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 9.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 9.0, 'ethics': 8.0, 'total': 61.0}}}
+P067.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 54.0}}}
+P068.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 0.0, 'ethics': 0.0, 'total': 0.0}}}
+P069.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 1.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 2.0, 'ethics': 10.0, 'total': 13.0}}}
+P070.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 52.0}}}
+P071.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 4.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 51.0}}}
+P072.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 1.0, 'ethics': 10.0, 'total': 11.0}}}
+P073.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 4.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 52.0}}}
+P074.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 51.0}}}
+P075.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 1.0, 'results': 1.0, 'clarity': 5.0, 'ethics': 8.0, 'total': 20.0}}}
+P076.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 1.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 2.0, 'ethics': 10.0, 'total': 13.0}}}
+P077.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 6.0, 'novelty': 6.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 55.0}}}
+P079.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 8.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 55.0}}}
+P080.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 4.0, 'technical_soundness': 2.0, 'factual_correctness': 1.0, 'rigorousity': 2.0, 'novelty': 6.0, 'results': 3.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 31.0}}}
+P081.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 52.0}}}
+P082.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 6.0, 'total': 51.0}}}
+P083.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 6.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 6.0, 'total': 50.0}}}
+P084.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 5.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 45.0}}}
+P085.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 1.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 1.0, 'ethics': 10.0, 'total': 12.0}}}
+P086.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 56.0}}}
+P087.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 6.0, 'total': 56.0}}}
+P088.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 8.0, 'total': 60.0}}}
+P089.pdf belongs to TMLR
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 52.0}}}
+P090.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 55.0}}}
+P092.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 6.0, 'ethics': 7.0, 'total': 56.0}}}
+P093.pdf belongs to TMLR
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 1.0, 'results': 0.0, 'clarity': 1.0, 'ethics': 10.0, 'total': 12.0}}}
+P094.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 9.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 61.0}}}
+P095.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 1.0, 'ethics': 10.0, 'total': 11.0}}}
+P096.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 1.0, 'technical_soundness': 1.0, 'factual_correctness': 0.0, 'rigorousity': 1.0, 'novelty': 1.0, 'results': 1.0, 'clarity': 2.0, 'ethics': 10.0, 'total': 17.0}}}
+P097.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 2.0, 'results': 1.0, 'clarity': 5.0, 'ethics': 5.0, 'total': 18.0}}}
+P098.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 51.0}}}
+P099.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 0.0, 'ethics': 0.0, 'total': 0.0}}}
+P100.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 8.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 60.0}}}
+P101.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 58.0}}}
+P102.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 6.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 46.0}}}
+P103.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 6.0, 'total': 60.0}}}
+P104.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 0.0, 'ethics': 0.0, 'total': 0.0}}}
+P105.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 2.0, 'rigorousity': 1.0, 'novelty': 1.0, 'results': 1.0, 'clarity': 7.0, 'ethics': 5.0, 'total': 20.0}}}
+P106.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 2.0, 'results': 0.0, 'clarity': 5.0, 'ethics': 7.0, 'total': 19.0}}}
+P107.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 6.0, 'results': 5.0, 'clarity': 7.0, 'ethics': 10.0, 'total': 51.0}}}
+P108.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 7.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 51.0}}}
+P109.pdf belongs to KDD
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 7.0, 'factual_correctness': 6.0, 'rigorousity': 5.0, 'novelty': 7.0, 'results': 5.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 51.0}}}
+P110.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 9.0, 'ethics': 8.0, 'total': 60.0}}}
+P111.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 57.0}}}
+P112.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 5.0, 'clarity': 6.0, 'ethics': 7.0, 'total': 45.0}}}
+P113.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 4.0, 'novelty': 7.0, 'results': 4.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 46.0}}}
+P114.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 6.0, 'factual_correctness': 8.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 5.0, 'clarity': 7.0, 'ethics': 6.0, 'total': 47.0}}}
+P115.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 4.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 45.0}}}
+P116.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 6.0, 'total': 57.0}}}
+P117.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 6.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 10.0, 'total': 55.0}}}
+P118.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 1.0, 'results': 0.0, 'clarity': 1.0, 'ethics': 10.0, 'total': 12.0}}}
+P119.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 52.0}}}
+P120.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 6.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 50.0}}}
+P121.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 52.0}}}
+P122.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 6.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 56.0}}}
+P123.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 2.0, 'results': 1.0, 'clarity': 5.0, 'ethics': 5.0, 'total': 18.0}}}
+P124.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 8.0, 'rigorousity': 6.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 55.0}}}
+P125.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 51.0}}}
+P126.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 5.0, 'factual_correctness': 8.0, 'rigorousity': 5.0, 'novelty': 4.0, 'results': 5.0, 'clarity': 7.0, 'ethics': 9.0, 'total': 49.0}}}
+P127.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 8.0, 'clarity': 9.0, 'ethics': 7.0, 'total': 60.0}}}
+P128.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 1.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 1.0, 'ethics': 1.0, 'total': 3.0}}}
+P129.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 5.0, 'results': 1.0, 'clarity': 7.0, 'ethics': 3.0, 'total': 21.0}}}
+P130.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 7.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 6.0, 'novelty': 5.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 53.0}}}
+P131.pdf belongs to NeurIPS
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 4.0, 'results': 1.0, 'clarity': 7.0, 'ethics': 5.0, 'total': 22.0}}}
+P132.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 7.0, 'results': 6.0, 'clarity': 8.0, 'ethics': 7.0, 'total': 60.0}}}
+P133.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 0.0, 'technical_soundness': 0.0, 'factual_correctness': 0.0, 'rigorousity': 0.0, 'novelty': 0.0, 'results': 0.0, 'clarity': 0.0, 'ethics': 0.0, 'total': 0.0}}}
+P134.pdf belongs to NA
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 7.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 6.0, 'total': 56.0}}}
+P135.pdf belongs to TMLR
+{'finalscore': {'scores': {'methodology': 6.0, 'technical_soundness': 6.0, 'factual_correctness': 7.0, 'rigorousity': 5.0, 'novelty': 6.0, 'results': 5.0, 'clarity': 7.0, 'ethics': 7.0, 'total': 55.0}}}
+P029.pdf belongs to EMNLP
+{'finalscore': {'scores': {'methodology': 8.0, 'technical_soundness': 7.0, 'factual_correctness': 8.0, 'rigorousity': 7.0, 'novelty': 6.0, 'results': 7.0, 'clarity': 8.0, 'ethics': 9.0, 'total': 60.0}}}
+P060.pdf belongs to CVPR
+{'finalscore': {'scores': {'methodology': 2.0, 'technical_soundness': 1.0, 'factual_correctness': 1.0, 'rigorousity': 1.0, 'novelty': 5.0, 'results': 1.0, 'clarity': 7.0, 'ethics': 5.0, 'total': 23.0}}}
+P078.pdf belongs to NA
